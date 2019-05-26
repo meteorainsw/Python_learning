@@ -1,2 +1,4 @@
 #Python学习笔记
 1.input()输入的变量默认都是默认字符型，如果需要和数字变量做比较需要用int(变量)
+2.inconsistent use of tabs and spaces in indentation  https://blog.csdn.net/godot06/article/details/80974884
+
